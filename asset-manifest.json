@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webDevel/static/css/main.6ccd65a8.css",
+    "main.js": "/webDevel/static/js/main.8b22c601.js",
+    "static/js/787.8902ba51.chunk.js": "/webDevel/static/js/787.8902ba51.chunk.js",
+    "static/media/gor1.jpg": "/webDevel/static/media/gor1.3c3c7d17a21b4ed193c1.jpg",
+    "static/media/oceans1.jpg": "/webDevel/static/media/oceans1.d38ad376efe949b71668.jpg",
+    "static/media/gory.jpg": "/webDevel/static/media/gory.1c1b2f34f9217dffeb1a.jpg",
+    "static/media/oceans3.jpg": "/webDevel/static/media/oceans3.fd75ee97cca1faffb69a.jpg",
+    "static/media/priroda2.jpg": "/webDevel/static/media/priroda2.8208e03e32ad8d42b8e6.jpg",
+    "static/media/priroda3.jpg": "/webDevel/static/media/priroda3.2586b7bb30fc4e505871.jpg",
+    "static/media/priroda1.jpg": "/webDevel/static/media/priroda1.6d37467867a194a7e62c.jpg",
+    "static/media/priroda4.jpg": "/webDevel/static/media/priroda4.343f6f1bd03233ec46d5.jpg",
+    "index.html": "/webDevel/index.html",
+    "main.6ccd65a8.css.map": "/webDevel/static/css/main.6ccd65a8.css.map",
+    "main.8b22c601.js.map": "/webDevel/static/js/main.8b22c601.js.map",
+    "787.8902ba51.chunk.js.map": "/webDevel/static/js/787.8902ba51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.8b22c601.js"
+  ]
+}
